@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: poc;
-  src: url(https://somewebsite.com/path/to/font.woff);
+  src: url('https://github.com/wycats/jsmodules/raw/master/source/fonts/Consolas.woff');
 };
 
 ]{x0000}$
